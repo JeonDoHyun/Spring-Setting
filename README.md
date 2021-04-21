@@ -23,3 +23,4 @@
 # Lombok 라이브러리 설치
 ● Lombok을 이용하면 JAVA 개발 시 자주 사용하는 getter/setter,toString(),생성자 등을 자동으로 생성해줌<br>
   
+# pom.xml 
